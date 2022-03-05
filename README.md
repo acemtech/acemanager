@@ -13,7 +13,7 @@ On a de plus en plus des comoriens à gérer. Aujourd'hui tout est consigné dan
 * Impossible de travailler dessus plusieurs en même temps.
 * Ce n'est pas très aisé de trouver les personnes précédentes
 * De plus, lorsque chaque sous section veut partager les informations avce la BE, on le fait par mail, et cela devient le fouillis : on ne retrouve pas facilement les messages.
-* Et comme pour les années à venir le Maroc (AMCI) comptent éduquer au moins 3000 comoriens (jusqu'en 2030) la gestion de cette masse d'individus est la propriété stratégique de l'ACEM TECH, ce point est à travailler d'urgence.
+* Et comme pour les années à venir le Maroc (AMCI) compte éduquer au moins 3000 comoriens (jusqu'en 2030) la gestion de cette masse d'individus est la propriété stratégique de l'ACEM TECH, ce point est à travailler d'urgence.
 
 
 ## Objectif du projet

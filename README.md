@@ -47,7 +47,8 @@ L'administrateur doit être capable de générer des rapports comme:
 - Liste des doctorants en fin de cycle
 - Liste des personnes par région
 - Liste des ressortissants par île.
-- Taux de réussite et/ou d'échecs par ville et/ou region 
+- Taux de réussite et/ou d'échecs par ville et/ou region
+- Liste des étudiants réticents aux formations (%)
 
 L'application est réalisé avec **le langage de votre choix**.
 

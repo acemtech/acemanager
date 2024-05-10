@@ -1,11 +1,12 @@
 # aceMANAGER
 
-aceMANAGER est une solution permettant la gestion de tout(e) comorien(ne) se trouvant au Maroc.
+aceMANAGER est une solution permettant la gestion de tout(e) comorien(ne) se trouvant au Maroc. <br>
 Cette solution vise à remédier au problème de recessement voire double recensement des étudiants, travailleurs et résidents comoriens sur le territoire marocain.
 
 ## Contexte et définition du problème
 
-On a de plus en plus des comoriens à gérer. Aujourd'hui tout est consigné dans un fichier Excel, pire encore du papier blanche écrit en bleu que l'on partage. Et cela pose plein de problèmes :
+On a de plus en plus des comoriens à gérer.<br>
+Aujourd'hui tout est consigné dans un fichier Excel, pire encore du papier blanche écrit en bleu que l'on partage. Et cela pose plein de problèmes :
 
 * Le double recensement de chaque année ou de chaque bureau de sous section que ce soit sur du papier ou via google forms.
 * Le multiple recensement des personnes ayant des soucis pour le dépot ou le renouvellement de la carte séjour
@@ -17,11 +18,11 @@ On a de plus en plus des comoriens à gérer. Aujourd'hui tout est consigné dan
 
 
 ## Objectif du projet
-Nous voulons offrir un meilleur service dans la gestion des comoriens résident au Maroc à l'aide d'un véritable outil de gestion de base de données. Nous pensons pouvoir résoudre le problème cité ci-haut à 80%.
+Nous voulons offrir un meilleur service dans la gestion des comoriens résident au Maroc à l'aide d'un véritable outil de gestion de base de données. Nous pensons pouvoir résoudre le problème cité ci-haut à 95%.
 
 ## Périmètre
 
-Nou snous concentrons sur tout(e) comorien(ne) se trouvant au Maroc.
+Nou snous concentrons sur tout(e) comorien(ne) se trouvant au Maroc.<br>
 Nous mettons en place un outil qui gère les comoriens de partout dans le Maroc.
 
 ## Description fonctionelle des besoins
@@ -50,6 +51,7 @@ L'administrateur doit être capable de générer des rapports comme:
 - Taux de réussite et/ou d'échecs par ville et/ou region
 - Liste des étudiants réticents aux formations (%)
 - Liste des étudiants boursier/non boursier/institut/facutlés (différents filtres)
+- Et beaucoup plus d'autres.
 
 L'application est réalisé avec **le langage de votre choix**.
 
